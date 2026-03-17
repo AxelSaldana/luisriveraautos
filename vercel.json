@@ -1,9 +1,7 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false,
   "rewrites": [
-    { "source": "/",        "destination": "/herrera_catalogo_vehiculos.html" },
+    { "source": "/", "destination": "/herrera_catalogo_vehiculos.html" },
     { "source": "/catalogo", "destination": "/herrera_catalogo_vehiculos.html" },
-    { "source": "/detalle",  "destination": "/herrera_catalogo_v5.html" }
+    { "source": "/detalle", "destination": "/herrera_catalogo_v5.html" }
   ]
 }
