@@ -11,3 +11,6 @@ desktop.ini
 
 # Node (por si acaso)
 node_modules/
+
+.vercel
+.env*.local
