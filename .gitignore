@@ -1,0 +1,13 @@
+# Claude Code
+.claude/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (por si acaso)
+node_modules/
